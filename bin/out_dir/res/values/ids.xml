@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="show_text">false</item>
+    <item type="id" name="query">false</item>
+    <item type="id" name="toggle">false</item>
+    <item type="id" name="weekday">false</item>
+    <item type="id" name="order">false</item>
+    <item type="id" name="classnameInfo">false</item>
+    <item type="id" name="changeClassname">false</item>
+    <item type="id" name="classroomInfo">false</item>
+    <item type="id" name="changeClassroom">false</item>
+    <item type="id" name="teacherInfo">false</item>
+    <item type="id" name="changeTeacher">false</item>
+    <item type="id" name="back">false</item>
+    <item type="id" name="weekdays">false</item>
+    <item type="id" name="monday">false</item>
+    <item type="id" name="tuesday">false</item>
+    <item type="id" name="wednesday">false</item>
+    <item type="id" name="thursday">false</item>
+    <item type="id" name="friday">false</item>
+    <item type="id" name="class_info">false</item>
+    <item type="id" name="b11">false</item>
+    <item type="id" name="b12">false</item>
+    <item type="id" name="b21">false</item>
+    <item type="id" name="b22">false</item>
+    <item type="id" name="b31">false</item>
+    <item type="id" name="b32">false</item>
+    <item type="id" name="b41">false</item>
+    <item type="id" name="b42">false</item>
+    <item type="id" name="b51">false</item>
+    <item type="id" name="b52">false</item>
+    <item type="id" name="submit">false</item>
+    <item type="id" name="update_table">false</item>
+    <item type="id" name="update_time">false</item>
+</resources>

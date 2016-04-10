@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/update_table" android:title="更新课表" />
+    <item android:id="@id/update_time" android:title="更新上课时间" />
+</menu>

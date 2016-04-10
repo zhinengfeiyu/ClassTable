@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: classtable.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '8'
+  targetSdkVersion: '17'
+packageInfo:
+  cur_package: com.example.classtable
+  orig_package: com.example.classtable
+compressionType: false

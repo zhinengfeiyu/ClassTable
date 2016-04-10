@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <TextView 
+        android:id="@+id/show_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_weight="1"/>
+    <RelativeLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+	    <Button 
+	        android:id="@+id/query"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="查询课表"/>
+	    <ToggleButton 
+	        android:id="@+id/toggle"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignBottom="@id/query"
+	        android:layout_toRightOf="@id/query"
+	        android:textOn="自动静音已打开"
+	        android:textOff="自动静音已关闭"/>
+    </RelativeLayout>
+</LinearLayout>
